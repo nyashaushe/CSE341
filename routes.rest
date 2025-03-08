@@ -1,0 +1,31 @@
+GET https://cse341-yw65.onrender.com/contacts
+
+###
+GET https://cse341-yw65.onrender.com/contacts/65eb7d2c28d63b89f0b38adc
+
+###
+POST https://cse341-yw65.onrender.com/contacts
+Content-Type: application/json
+
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "favoriteColor": "blue",
+    "birthday": "1990-01-01"
+}
+
+###
+PUT https://cse341-yw65.onrender.com/contacts/65eb7d2c28d63b89f0b38adc
+Content-Type: application/json
+
+{
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "janedoe@example.com",
+    "favoriteColor": "green",
+    "birthday": "1992-02-02"
+}
+
+###
+DELETE https://cse341-yw65.onrender.com/contacts/65eb7d2c28d63b89f0b38adc

@@ -1,0 +1,35 @@
+###
+POST https://cse341-contacts-api-q8zi.onrender.com/contacts
+Content-Type: application/json
+
+{
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice.smith@example.com",
+    "favoriteColor": "purple",
+    "birthday": "1985-05-05"
+}
+
+###
+POST https://cse341-contacts-api-q8zi.onrender.com/contacts
+Content-Type: application/json
+
+{
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bob.johnson@example.com",
+    "favoriteColor": "orange",
+    "birthday": "1992-12-25"
+}
+
+###
+POST https://cse341-contacts-api-q8zi.onrender.com/contacts
+Content-Type: application/json
+
+{
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "email": "charlie.brown@example.com",
+    "favoriteColor": "yellow",
+    "birthday": "2000-07-10"
+}

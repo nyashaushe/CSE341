@@ -1,10 +1,10 @@
-GET https://cse341-contacts-api-q8zi.onrender.com/contacts
+GET https://cse341-yw65.onrender.com/contacts
 
 ###
-GET https://cse341-contacts-api-q8zi.onrender.com/contacts/65eb7d2c28d63b89f0b38adc
+GET https://cse341-yw65.onrender.com/contacts/65eb7d2c28d63b89f0b38adc
 
 ###
-POST https://cse341-contacts-api-q8zi.onrender.com/contacts
+POST https://cse341-yw65.onrender.com/contacts
 Content-Type: application/json
 
 {
@@ -16,7 +16,7 @@ Content-Type: application/json
 }
 
 ###
-PUT https://cse341-contacts-api-q8zi.onrender.com/contacts/65eb7d2c28d63b89f0b38adc
+PUT https://cse341-yw65.onrender.com/contacts/65eb7d2c28d63b89f0b38adc
 Content-Type: application/json
 
 {
@@ -28,4 +28,4 @@ Content-Type: application/json
 }
 
 ###
-DELETE https://cse341-contacts-api-q8zi.onrender.com/contacts/65eb7d2c28d63b89f0b38adc
+DELETE https://cse341-yw65.onrender.com/contacts/65eb7d2c28d63b89f0b38adc
